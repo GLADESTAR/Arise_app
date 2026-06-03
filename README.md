@@ -1,17 +1,32 @@
-# arise
+# Arise – Gamify Your Life
 
-A new Flutter project.
+Arise is a self-improvement and productivity app inspired by RPG progression systems. It transforms daily habits, personal goals, and quests into an engaging leveling experience where users earn XP, level up, improve stats, and track their real-life growth.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* ⚔️ RPG-style leveling system
+* 📈 Experience (XP) gained by completing habits and quests
+* 🎯 Custom quests with user-defined rewards
+* 💪 Character stats progression
+* 🔥 Streak tracking and consistency rewards
+* 📅 Calendar view to track daily progress
+* 📊 Detailed analytics and progress visualization
+* 🎨 Clean and modern UI
+* 💾 Local data persistence
+* 📱 Cross-platform support with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## How It Works
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Complete your daily habits and quests to earn XP. As you level up, your character grows stronger and your progress becomes visible through stats, streaks, and achievements. Arise turns self-discipline into a rewarding game, making productivity more engaging and motivating.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+
+* Flutter
+* Dart
+* Material Design
+
+## Vision
+
+The goal of Arise is to make personal growth feel like an adventure. Instead of simply checking off tasks, users can experience real-life progression through a game-like system that rewards consistency, discipline, and self-improvement.
+
+"Every habit completed is another step toward leveling up your real life."
